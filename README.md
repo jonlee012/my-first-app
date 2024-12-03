@@ -22,7 +22,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/introductory-project.git
+git clone https://github.com/jonlee012/my-first-app.git
 Navigate into the project directory:
 
 bash
